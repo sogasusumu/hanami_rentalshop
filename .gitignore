@@ -1,0 +1,10 @@
+/public/assets*
+/tmp
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+mysql-data/

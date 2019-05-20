@@ -1,0 +1,3 @@
+project=hanami_rentalshop
+test=rspec
+template=erb
