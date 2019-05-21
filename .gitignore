@@ -8,3 +8,7 @@ out
 gen
 
 mysql-data/
+bundle/
+__*
+.bundle
+mysql-data

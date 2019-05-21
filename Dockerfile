@@ -15,7 +15,9 @@ RUN apk update && \
       ruby-dev \
       tzdata \
       yaml \
-      yaml-dev
+      yaml-dev \
+      mysql-client \
+      mysql
 
 COPY . $APP_ROOT
 
